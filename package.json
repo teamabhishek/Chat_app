@@ -8,7 +8,7 @@
     "serve": "nodemon index.js",
     "start": "node index.js"
   },
-  "author": "Arnabi",
+  "author": "Abhishek",
   "license": "ISC",
   "dependencies": {
     "nodemon": "^2.0.15",
