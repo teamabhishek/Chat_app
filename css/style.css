@@ -1,0 +1,102 @@
+.logo {
+  display: block;
+  margin-top: -15px;
+  width: 2vw;
+  height: 2vw;
+}
+
+nav {
+  background-color: rgb(48, 48, 122);
+  margin: auto;
+  margin-top: none;
+  max-width: 80vh;
+  
+}
+
+.logo-font {
+  font-family: "Sedgwick Ave", cursive;
+  color: cornsilk;
+}
+.body {
+  display: block;
+  margin: auto;
+  height: 60vh;
+}
+.container {
+  background-color: rgba(250, 250, 245, 0.952);
+  display: block;
+  margin-top: -20px;
+  margin: auto;
+  height: 80vh;
+  margin-top: none;
+  max-width: 80vh;
+  overflow-y: auto;
+  
+}
+
+.message{
+  background-color: #f0e1cd;
+  padding: 1vw 1vw 1vw 1vw;
+  word-wrap: break-word;
+  max-width: 24%;
+  width: 20%;
+  margin-top: 1vw;
+  margin-bottom: 1vw;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  border-radius: 4px;
+  font-size: 90%;
+}
+
+.left
+{
+  float: left;
+  clear: both;
+}
+
+.right
+{
+  float: right;
+  clear: both;
+}
+
+.middle
+{
+  display: block;
+  margin: auto;
+  clear: both;
+  text-align: center;
+  padding: auto;
+}
+.send {
+  display: block;
+  margin: auto;
+
+  max-width: 80vh;
+  margin-bottom: none;
+}
+
+.text {
+  width: 85%;
+  height: 6vh;
+  background-color: rgb(219, 218, 218);
+  border: black;
+  border-radius: 4px;
+  margin-top: 1%;
+}
+
+.form {
+  max-width: 100%;
+  margin: auto;
+  padding: auto;
+}
+
+.btn {
+  width: 9vh;
+  height: 9vh;
+  border-radius: 50%;
+  margin-left: 1vh;
+  
+  background-color: rgb(13, 128, 57);
+  color: cornsilk;
+}
